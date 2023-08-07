@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E Vahan</string>
+
+
+        <string-array name="service_options">
+            <item>Choose a service:</item>
+            <item>Transfer of ownership</item>
+            <item>Renewal</item>
+            <item>Arrival</item>
+        </string-array>
+    <string name="start_app">Start App</string>
+</resources>
